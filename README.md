@@ -1,5 +1,5 @@
 # Crowd-density-estimation (Image Processing)
-The application analyzes the input media file (image/video) and tracks and detects the motion of moving objects and later estimates the crowd density.
+The application analyzes the input media file(.jpg,.png,.gif,.mp4) , detects and tracks the motion of moving objects and later estimates the crowd density.
 
 
  
