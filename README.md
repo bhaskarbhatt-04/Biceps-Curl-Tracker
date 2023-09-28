@@ -1,5 +1,7 @@
-# Crowd-density-estimation (Image Processing)
-The application analyzes the input media file(.jpg,.png,.gif,.mp4 , etc.) , detects and tracks the motion of moving objects and later estimates the crowd density.
+# Bicep Curl Tracker 
+The application takes a video file or a live webcam feed as an input , estimates the biceps movements and dispalys kinematic view of the body with the curls count,calulated angle between wrist-elbow-shoulder and the number of reps done live.
+
+
 
 
  
